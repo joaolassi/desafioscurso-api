@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "algamoney.origin-permitida",
+    "type": "java.lang.String",
+    "description": "A description for 'algamoney.origin-permitida'"
+  },
+  {
+    "name": "algamoney.seguranca.enable-https",
+    "type": "java.lang.String",
+    "description": "A description for 'algamoney.seguranca.enable-https'"
+  },
+  {
+    "name": "algamoney.mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'algamoney.mail.host'"
+  }
+]}
